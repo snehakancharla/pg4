@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2de45195-7186-4665-9a3f-1b3f7366bf40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tenPrograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tenPrograms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/CountOfCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/CountOfCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/FindPresenceOfWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/FindPresenceOfWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/MultipleOccuranceUsingMatche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/MultipleOccuranceUsingMatche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/ReplaceDAndI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/ReplaceDAndI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/SortWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/SortWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/TransposeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/TransposeString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +22,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/CountOfCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#565#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -28,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/ReplaceDAndI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="2" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -37,20 +46,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/SortWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="57">
+              <caret line="3" column="46" selection-start-line="1" selection-end-line="3" selection-end-column="46" />
               <folding>
+                <element signature="e#0#1050#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/MultipleOccuranceUsingMatche.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+            <state relative-caret-position="171">
+              <caret line="10" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,9 +71,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/FindPresenceOfWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="230">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
+                <element signature="e#0#948#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -73,8 +84,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/TransposeString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#804#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,17 +103,17 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tenPrograms" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/CountOfCharacter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/ReplaceDAndI.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/SortWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/FindPresenceOfWord.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/TransposeString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/MultipleOccuranceUsingMatche.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/TransposeString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/SortWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/ReplaceDAndI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.stackroute.pg4/CountOfCharacter.java" />
       </list>
     </option>
   </component>
@@ -161,6 +175,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pg3" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -271,7 +286,7 @@
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26294553" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26294553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -304,7 +319,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/TransposeString.java</url>
-          <line>3</line>
+          <line>9</line>
           <properties class="com.stackroute.pg4.TransposeString" method="main">
             <option name="EMULATED" value="true" />
           </properties>
@@ -314,24 +329,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/CountOfCharacter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/FindPresenceOfWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="230">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#948#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/ReplaceDAndI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/MultipleOccuranceUsingMatche.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/SortWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="171">
+          <caret line="10" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -340,27 +352,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/TransposeString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="285">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#804#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/FindPresenceOfWord.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/SortWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="57">
+          <caret line="3" column="46" selection-start-line="1" selection-end-line="3" selection-end-column="46" />
           <folding>
+            <element signature="e#0#1050#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/MultipleOccuranceUsingMatche.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/ReplaceDAndI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="2" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.stackroute.pg4/CountOfCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#565#0" expanded="true" />
           </folding>
         </state>
       </provider>
