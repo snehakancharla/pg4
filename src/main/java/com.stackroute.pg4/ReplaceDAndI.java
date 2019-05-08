@@ -15,9 +15,11 @@ public class ReplaceDAndI {
         System.out.println("Input:");
         Scanner sc=new Scanner(System.in);
         String str=sc.nextLine();
+
         String str1=str.replace("d","f");
         str1=str1.replace("l","t");
-        System.out.println("Output:" +str1);
+
+
         System.out.println("Original String:"+str);
         System.out.println("New String:"+ str1);
 

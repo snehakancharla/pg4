@@ -23,7 +23,11 @@ public class MultipleOccuranceUsingMatche {
         System.out.println("enter the pattern string");
         String patternString = in.nextLine();
 
+        // pattern contains what to match
         Pattern pattern = Pattern.compile(patternString);
+
+
+        //matcher contains whole string
         Matcher matcher = pattern.matcher(wholeString);
 
         int count = 0;

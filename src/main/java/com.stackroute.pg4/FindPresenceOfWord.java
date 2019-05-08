@@ -24,9 +24,13 @@ public class FindPresenceOfWord {
         System.out.println("enter the pattern string");
         String patterString = in.next();
 
+        // pattern contains what to match
         Pattern pattern = Pattern.compile(patterString);
+
+        //matcher contains whole string
         Matcher matcher = pattern.matcher(wholeString);
 
+        //if it is there it will be true
         if (matcher.find()) {
             System.out.println("Is " + patterString + " here ? : " +true);
 
